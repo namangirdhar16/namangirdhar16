@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I'm Naman, a C.E student from J.C. Bose University of Sciences And Technology, Faridabad.
+
+
 <!--
 **namangirdhar16/namangirdhar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

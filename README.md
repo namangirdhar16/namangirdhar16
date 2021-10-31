@@ -2,7 +2,7 @@
 
 ### I'm Naman, a C.E student from J.C. Bose University of Sciences And Technology, Faridabad.
 
-
+### A decent readme will be added soon.........(Because i'm still learning github markdown)
 <!--
 **namangirdhar16/namangirdhar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

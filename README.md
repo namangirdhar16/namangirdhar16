@@ -8,7 +8,7 @@ I'm a tech enthusiast & recently inclined to open source. My journey has started
 
 Find more about me & connect with me. DM's are always open, feel free to message:
 
-<a href="https://twitter.com/NamanGirdhar3">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<!-- <a href="https://twitter.com/NamanGirdhar3">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> -->
 
 <!--
 `Will Complete Soon.....`

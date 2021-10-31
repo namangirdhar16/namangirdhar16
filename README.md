@@ -1,9 +1,37 @@
 ### Hi there 👋
 
-### I'm Naman, a C.E student from J.C. Bose University of Sciences And Technology, Faridabad.
+### I'm Naman, I appreciate your time😊. Glad to see you here.
 
-### A decent readme will be added soon.........(Because i'm still learning github markdown)
+I am Naman Girdhar, currently pursuing my B.Tech in computer engineering from [J.C.Bose University of Sciences and Technology, YMCA](https://jcboseust.ac.in/). 
+I'm a tech enthusiast & recently inclined to open source. My journey has started through [hacktoberfest](https://hacktoberfest.digitalocean.com/). I'm open to collaborate on projects and discuss innovative project ideas. I like problem solving both through 
+`Data Structures & Algorithms` and `Web Development`. Recently, I'm trying to be consistent.
+
+Find more about me & connect with me. DM's are always open, feel free to message:
+
+<a href="https://twitter.com/NamanGirdhar3">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
 <!--
+`Will Complete Soon.....`
+ |column1|column2|column3|
+|:--- | :---: | ---:|
+```js
+const name = "naman";
+```
+[link](https://www.google.com)
+![img](inidni)
+> this is a quoted text
+
+- hello
+- list
+
+
+<details>
+  <summary>Click for more info</summary>
+   > Hello
+  
+</details>
+ A decent readme will be added soon.........(Because i'm still learning github markdown)
+
 **namangirdhar16/namangirdhar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

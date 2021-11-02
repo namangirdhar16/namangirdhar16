@@ -2,6 +2,10 @@
 
 ### I'm Naman, I appreciate your time😊. Glad to see you here.
 
+![Profile Views](https://komarev.com/ghpvc/?username=namangirdhar16&color=blue)
+
+
+
 
 
 ###### I am Naman Girdhar, currently pursuing my B.Tech in `Computer Engineering` from [J.C.Bose University of Sciences and Technology, YMCA](https://jcboseust.ac.in/). I'm a tech enthusiast & recently inclined to open source. My journey has started through [hacktoberfest](https://hacktoberfest.digitalocean.com/). I'm open to collaborate on projects and discuss innovative project ideas. I like problem solving both through `Data Structures & Algorithms` and `Web Development`. Recently, I'm trying to be consistent.
@@ -20,6 +24,10 @@
 <a href="https://discord.com/channels/@me">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.instagram.com/naman__girdhar/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://twitter.com/NamanGirdhar3">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
+
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namangirdhar16&show_icons=true&theme=radical&hide=stars)
 
 <!--
 `Will Complete Soon.....`

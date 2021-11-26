@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on a major project.
 - 🤔 I’m looking for help with open source
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Fun fact is that i don't have any fun fact 😂.
+- ⚡ Fun fact: Fun fact is I can spend hours thinking 😂.
 
 ###### Find more about me & connect with me. DM's are always open, feel free to message:
 

@@ -8,7 +8,7 @@
 
 
 
-###### I am Naman Girdhar, currently pursuing my B.Tech in `Computer Engineering` from [J.C.Bose University of Sciences and Technology, YMCA](https://jcboseust.ac.in/). I'm a tech enthusiast & recently inclined to open source. I'm open to collaborate on projects and discuss innovative project ideas. I like problem solving both through `Data Structures & Algorithms` and `Web Development`. Recently, I'm trying to be consistent.
+###### I am Naman Girdhar, currently pursuing my B.Tech in `Computer Engineering` from  [J.C.Bose University of Sciences and Technology, YMCA](https://jcboseust.ac.in/). I'm a tech enthusiast & recently inclined to open source. I'm open to collaborate on projects and discuss innovative project ideas. I like problem solving both through `Data Structures & Algorithms` and `Web Development`. Recently, I'm trying to be consistent.
 
 
 - 🔭 I’m currently working on multiple things.
